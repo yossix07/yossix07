@@ -10,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossix07&layout=compact)](https://github.com/yossix07/github-readme-stats)
 
 <br/>
-<br/>
 
 📫  Connect with me:
   
