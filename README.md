@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossix07&layout=compact)](https://github.com/yossix07/github-readme-stats)
 
-<br/>
-
 📫  Connect with me:
   
 [![gmail](https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png)][1]
