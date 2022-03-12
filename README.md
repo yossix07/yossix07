@@ -7,8 +7,13 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/yossi-maatook)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/yossi-maatook)
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+[![gmail](https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png)][3]
+
+[1]: https://github.com/yossix07
+[2]: www.linkedin.com/in/yossi-maatook
+[3]: mailto:yossix07@gmail.com
 
 ### Languages and Tools:
 
