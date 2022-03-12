@@ -16,7 +16,4 @@
 [1]: mailto:yossix07@gmail.com
 [2]: www.linkedin.com/in/yossi-maatook
 
-<br />
-<br />
-
 
