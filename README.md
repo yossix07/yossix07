@@ -14,7 +14,7 @@
 [![gmail](https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png)][2]
 [![linkedin](https://cdn.icon-icons.com/icons2/2428/PNG/48/linkedin_black_logo_icon_147114.png)][1]
 
-[1]: www.linkedin.com/in/yossi-maatook
+[1]: https://www.linkedin.com/in/yossi-maatook
 [2]: mailto:yossix07@gmail.com
 
 
