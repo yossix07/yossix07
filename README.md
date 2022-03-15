@@ -16,3 +16,6 @@
 
 [1]: mailto:yossix07@gmail.com
 [2]: www.linkedin.com/in/yossi-maatook
+
+## 😂 P.S - Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
