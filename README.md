@@ -1,6 +1,6 @@
 # Hi there, I'm Yossi 👋 
 
-- 🌱 I’m a 2nd year computer science student at Bar-Ilan University.
+- 📘 I’m a 2nd year computer science student at Bar-Ilan University.
 - 👯 I’m looking to collaborate with other content creators.
 
 ---
