@@ -17,5 +17,5 @@
 [2]: mailto:yossix07@gmail.com
 
 
-## 😂 P.S - Here is a random joke that'll make you laugh!
+## P.S - Here is a random joke that'll make your day a little better!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
