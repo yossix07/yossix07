@@ -1,6 +1,7 @@
 # Hi there, I'm Yossi 👋 
 
-- 📘 I’m a 2nd year computer science student at Bar-Ilan University.
+- 📘 I’m a 3rd year computer science student at Bar-Ilan University.
+- 💻 I'm a Fullstack developer at Chain-Reaction Ltd.
 - 👯 I’m looking to collaborate with other content creators.
 
 ---
